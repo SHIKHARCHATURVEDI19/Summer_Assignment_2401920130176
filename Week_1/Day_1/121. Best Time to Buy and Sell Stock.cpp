@@ -54,3 +54,7 @@ public:
         return maxi;
     }
 };
+
+/* Approach -mene two pointer use kiya hai ek jo min value l or dusra jaab stock sell karna*/
+/* jaab price badi hoti min se toh profit check karleta agar jyada hoga toh maxi ko update karliya*/
+/*nahi toh agar kaam hai r ki value toh l =r kar diya  last mein r ko badha diya*/
