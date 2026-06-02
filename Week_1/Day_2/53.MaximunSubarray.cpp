@@ -53,3 +53,6 @@ public:
         return maxi;
     }
 };
+
+/*ismein base case handle kiya pahle phir sum mein regularly update kiya */
+/* maxi ko check karta raha  if case lagaya ki jaav sum -ve ho toh zero ho jaye*/
